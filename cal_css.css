@@ -1,0 +1,72 @@
+.body_cal{
+    position: relative;
+    width: 300px;
+    /* height: 800px; */
+    padding: 8px;
+    left: 30%;
+    background-color: rgb(226, 224,224);
+    border-radius: 10px;
+}
+.display{
+    /* width: 90%; */
+    height: 70px;
+    background-color: rgb(245, 245,245);
+    background-size: cover;
+    margin-bottom: 8px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.buttons{
+    /* display: inline-block; */
+    /* position: relative; */
+    /* border: 1px solid black; */
+    background-size: cover;
+    
+}
+.part1{
+    /* position: relative; */
+    display: inline-block;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap;
+    justify-content: space-between; */
+    width: 64%;
+    overflow: hidden;
+    /* border: 1px solid black; */
+
+}
+button{
+    padding: 10px;
+    margin: 2px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition-duration: 1s;
+    
+    /* width: 30px; */
+}
+button:hover{
+    box-shadow: rgb(177, 157, 127) 2s;
+}
+.part1 button{
+    width: 55px;
+}
+.part2 button{
+    width: 100px;
+}
+.zero{
+    width: 220px;
+}
+.part2{
+    /* position: absolute; */
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    position: relative;
+  display: inline-block;
+  width: 25%;
+  background-size: cover;
+  vertical-align: top;
+}
+#display_content{
+    font-size: 1.5rem;
+    text-align: center;
+}

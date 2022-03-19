@@ -1,0 +1,13 @@
+#sample_work{
+    position: relative;
+    top: 200px;
+    left: 40%;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#message_display{
+    position: relative;
+    top: 200px;
+    left: 40%;
+}
