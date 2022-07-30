@@ -1,8 +1,6 @@
 
 var a = document.getElementById("display_content");
 var b = document.getElementsByTagName("button");
-// var value = b.innerText;
-// console.log(b);
 var op1 = 0;
 var op2 = null;
 var o = null;
