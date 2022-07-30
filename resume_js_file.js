@@ -1,7 +1,3 @@
-// var setcounter = 0;
-// function scroolvertically(){
-
-// }
 var select =  document.querySelectorAll('#body-nav a');
 for(var i =0 ;i<select.length; i++){
     select[i].addEventListener('click',function(event){
