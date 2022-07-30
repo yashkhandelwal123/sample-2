@@ -9,4 +9,5 @@ a[0].addEventListener('click',function(){
     d[0].classList.add('f-c');
     // b = black;
     // a[0].classList.add('a_cirle');
+    // a[0].classList.add('a_cirle');
 });
