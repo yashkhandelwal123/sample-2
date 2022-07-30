@@ -7,5 +7,9 @@ a[0].addEventListener('click',function(){
     c[0].classList.add('bg_color_white');
   
     d[0].classList.add('f-c');
-    
+
+    // b = black;
+    // a[0].classList.add('a_cirle');
+    // a[0].classList.add('a_cirle');
+
 });

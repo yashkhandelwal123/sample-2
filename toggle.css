@@ -9,7 +9,7 @@ h1{
     left: 40%;
     width: 50px;
     height: 19px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 9px;
     overflow: hidden;   
     cursor: pointer;
